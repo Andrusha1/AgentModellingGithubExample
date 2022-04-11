@@ -1,0 +1,17 @@
+D:\VS Projects\GithubAgentModelling\obj\Debug\Agents.csproj.AssemblyReference.cache
+D:\VS Projects\GithubAgentModelling\obj\Debug\Agents.csproj.SuggestedBindingRedirects.cache
+D:\VS Projects\GithubAgentModelling\obj\Debug\Agents.Form1.resources
+D:\VS Projects\GithubAgentModelling\obj\Debug\Agents.Properties.Resources.resources
+D:\VS Projects\GithubAgentModelling\obj\Debug\Agents.csproj.GenerateResource.cache
+D:\VS Projects\GithubAgentModelling\obj\Debug\Agents.csproj.CoreCompileInputs.cache
+D:\VS Projects\GithubAgentModelling\bin\Debug\Agents.exe.config
+D:\VS Projects\GithubAgentModelling\bin\Debug\Agents.exe
+D:\VS Projects\GithubAgentModelling\bin\Debug\Agents.pdb
+D:\VS Projects\GithubAgentModelling\bin\Debug\Newtonsoft.Json.dll
+D:\VS Projects\GithubAgentModelling\bin\Debug\Microsoft.Msagl.xml
+D:\VS Projects\GithubAgentModelling\bin\Debug\Microsoft.Msagl.Drawing.xml
+D:\VS Projects\GithubAgentModelling\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+D:\VS Projects\GithubAgentModelling\bin\Debug\Newtonsoft.Json.xml
+D:\VS Projects\GithubAgentModelling\obj\Debug\Agents.csproj.CopyComplete
+D:\VS Projects\GithubAgentModelling\obj\Debug\Agents.exe
+D:\VS Projects\GithubAgentModelling\obj\Debug\Agents.pdb
